@@ -5,15 +5,16 @@ body{
     
     Estilizar o título principal do seu site
      h1{
-    color:red ;
-    font-family:;
-    background: ;
+    color:rgb(65, 40, 40) ;
+    font-family:'Courier New', Courier, monospace
+    background:
     }
     
     Estilizar os parágrafos
     p{
     color: ;
-    font-family: ;
-    font-size: ;
-    background: ;
+    font-family: 'Courier New ;
+    font-size: 40px
+    background:fixde;
+    }
     
