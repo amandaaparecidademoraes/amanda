@@ -2,9 +2,7 @@
 body{
     background-color:aqua;
     }
-    #estilo{
-        width: 100 %;
-    }
+   
 
      h1{
     color:rgb(65, 40, 40) ;
@@ -21,3 +19,6 @@ body{
     text-align: center;
     }
     
+    #estilo{
+        width: 100 %;
+    }
